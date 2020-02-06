@@ -1,0 +1,44 @@
+﻿.menu_centre{
+    width: 800px ;
+    margin: 0 auto ;
+    text-align: center;
+    background-image: linear-gradient(blue, white,red );
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;   
+}
+html {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50% ;
+}
+.image_menu_centre {
+    width : 50px;
+    height : auto; 
+}
+.image_contenu{
+    width : 600px ;
+    height : auto ;
+}
+.underline {
+    text-decoration : underline ;
+}
+.menu_droite {
+    margin : 2px;
+    color : white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a:link, a:visited{
+    color:white;
+}
+a:hover {
+    color : aqua;
+}
+ul {
+    list-style-type : square;
+}
+contenu_page {
+    position: absolute center center;
+    background-image: url(https://cache.media.education.gouv.fr/image/06_-_juin/69/2/SNU_objectifs_periodes_1141692.189.png);
+}

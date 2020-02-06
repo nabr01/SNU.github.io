@@ -1,0 +1,19 @@
+﻿body
+{
+    color : black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 5px
+}
+html {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+a:link, a:visited {
+    color: white;
+}
+
+a:hover {
+    color: aqua;
+}
